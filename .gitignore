@@ -64,3 +64,10 @@ wheels/
 ehthumbs.db
 Thumbs.db
 **/.vscode
+
+# From venv
+##
+bin/
+include/
+lib/
+pyvenv.cfg
