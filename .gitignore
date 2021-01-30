@@ -71,3 +71,12 @@ bin/
 include/
 lib/
 pyvenv.cfg
+
+# From venv
+##
+bin/
+include/
+lib/
+share/
+lib64
+pyvenv.cfg
